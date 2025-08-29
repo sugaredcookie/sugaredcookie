@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: PeerPrep<br>🌱 I’m currently learning: Next.js, Java DSA, Android development with Java<br>💬 Ask me about: backend development, MongoDB, JavaScript projects, DSA, MERN<br>⚡ Fun fact: I’m building a platform that connects fashion lovers and sellers in a unique way!
-
+🔭 I’m currently working on: PeerPrep<br>🌱 I’m currently learning: Next.js, Java DSA, Android development with Java<br>💬 Ask me about: backend development, MongoDB, JavaScript projects, DSA, MERN<br>⚡ Fun fact: I'm building a platform that connects fashion lovers and sellers in a unique way!<br>🌐 Portfolio: [portfolio-sanidhyaverma.vercel.app](https://portfolio-sanidhyaverma.vercel.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanidhya__17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanidhya-verma-106622310) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanidhya.pranshu@gmail.com) 
